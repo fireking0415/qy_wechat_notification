@@ -1,0 +1,10 @@
+*.*~
+*.swp
+.project
+target
+.idea
+*.iml
+work
+pom.xml.versionsBackup
+.settings
+.classpath
